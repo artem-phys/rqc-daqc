@@ -2,7 +2,22 @@
 
 *A challenge provided by IQM Quantum Computers*
 
-This repository contains description and examples for the DAQC VQE challenge for the Womanium Hackathon 2022.
+This repository contains SOLUTION for the DAQC VQE challenge for the Womanium Hackathon 2022.
+
+## Team
+
+RQC Hackathon team:
+
+1. Kuzmichev Artem
+2. Nikita Nemkov
+3. Lolita Knyazeva
+4. Maxim Gavreev
+
+## Solution
+
+Look 
+1. RQC_pitch_deck.pdf  for main points
+2. VQE_DAQC.ipynb for code
 
 ## Summary
 
